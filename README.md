@@ -18,4 +18,6 @@ A goal-oriented software developer with experience in building web applications 
 ---
 [![](https://visitcount.itsvg.in/api?id=imtiaz-al-kabir&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<img src="https://raw.githubusercontent.com/imtiaz-al-kabir/imtiaz-al-kabir/output/snake.svg" width = 1500 alt="Snake animation" />
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
