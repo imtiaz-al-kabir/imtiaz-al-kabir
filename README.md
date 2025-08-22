@@ -59,6 +59,31 @@ A goal-oriented software developer with experience in building web applications 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+## 💻 Tech Stack
+
+<p align="center">
+  <!-- Row 1 -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="65" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="65" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="65" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="65" />
+</p>
+
+<p align="center">
+  <!-- Row 2 -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="65" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="65" />
+  <img src="https://raw.githubusercontent.com/remix-run/react-router/main/logo/vertical-mark-color.svg" height="65" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="65" />
+</p>
+
+<p align="center">
+  <!-- Row 3 -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="65" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="65" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="65" />
+  <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" height="65" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
