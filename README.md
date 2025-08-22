@@ -98,16 +98,6 @@ A goal-oriented software developer with experience in building web applications 
 
 ## 💻 Tech Stack
 
-<style>
-.tech-icon {
-  transition: transform 0.3s, color 0.3s;
-}
-.tech-icon:hover {
-  transform: scale(1.2);
-  color: #06b6d4; /* Tailwind cyan accent */
-}
-</style>
-
 <table align="center">
   <tr>
     <td align="center" width="130" class="tech-icon">
