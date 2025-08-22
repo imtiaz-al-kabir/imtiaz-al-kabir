@@ -50,7 +50,7 @@ A goal-oriented software developer with experience in building web applications 
     </td>
   </tr>
 </table>
-
+<hr/>
 
  <img src="https://raw.githubusercontent.com/imtiaz-al-kabir/imtiaz-al-kabir/output/snake.svg" width = 1500 alt="Snake animation" />
  
