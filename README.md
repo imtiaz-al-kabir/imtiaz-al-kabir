@@ -85,6 +85,59 @@ A goal-oriented software developer with experience in building web applications 
   <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" height="65" />
 </p>
 
+
+
+jjj
+
+
+## 💻 Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" alt="HTML" /><br>HTML
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" alt="CSS" /><br>CSS
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Bootstrap" /><br>Bootstrap
+    </td>
+    <td align="center" width="120">
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50" alt="Tailwind" /><br>Tailwind
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" /><br>JavaScript
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" alt="React" /><br>React
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/remix-run/react-router/main/logo/vertical-mark-color.svg" width="50" height="50" alt="React Router" /><br>React Router
+    </td>
+    <td align="center" width="120">
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" height="50" alt="Firebase" /><br>Firebase
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js" /><br>Node.js
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" alt="Express" /><br>Express
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB" /><br>MongoDB
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" width="50" height="50" alt="JWT" /><br>JWT
+    </td>
+  </tr>
+</table>
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 </div>
