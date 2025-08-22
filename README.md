@@ -187,6 +187,26 @@ jjj
 </table>
 
 
+<p align="center">
+  <img src="assets/html.png" width="100" />
+  <img src="assets/css.png" width="100" />
+  <img src="assets/bootstrap.png" width="100" />
+  <img src="assets/tailwind.png" width="100" />
+</p>
+
+<p align="center">
+  <img src="assets/js.png" width="100" />
+  <img src="assets/react.png" width="100" />
+  <img src="assets/reactrouter.png" width="100" />
+  <img src="assets/firebase.png" width="100" />
+</p>
+
+<p align="center">
+  <img src="assets/node.png" width="100" />
+  <img src="assets/express.png" width="100" />
+  <img src="assets/mongodb.png" width="100" />
+  <img src="assets/jwt.png" width="100" />
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 </div>
