@@ -1,6 +1,6 @@
-
-<div align="center">
 ## 👋 About Me
+<div align="center">
+
  
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=imtiaz-al-kabir.imtiaz-al-kabir">
  
