@@ -99,9 +99,7 @@ A goal-oriented software developer with experience in building web applications 
   </a>
 </p>
 
-## 👀 Visitor Count
 
-![Visitor Count](https://profile-counter.glitch.me/imtiaz-al-kabir/count.svg)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
