@@ -2,7 +2,7 @@
 <div align="center">
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=imtiaz-al-kabir.imtiaz-al-kabir">
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=500&height=60&lines=Hello%2C+There!+%F0%9F%91%8B+;This+is+Imtiaz+Al+Kabir.....;Nice+to+meet+you!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=500&height=60&lines=Hello%2C+There!+%F0%9F%91%8B+;This+is+Imtiaz+Al+Kabir.....;Frontend+Focused+MERN+stack+Developer;Nice+to+meet+you!+)](https://git.io/typing-svg)
 <hr/> 
  # 💫 
 A goal-oriented software developer with experience in building web applications using modern technologies like React, Next.js, and more. Seeking to leverage my technical skills to deliver exceptional user experiences.
