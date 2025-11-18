@@ -4,7 +4,7 @@
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=500&height=60&lines=Hello%2C+There!+%F0%9F%91%8B+;This+is+Imtiaz+Al+Kabir.....;MERN+stack+Developer;Nice+to+meet+you!+)](https://git.io/typing-svg)
 <hr/> 
- ## A frontend-focused MERN developer with solid experience in JavaScript and React. I’m passionate about growing into a full-stack role, where I can design and build scalable, end-to-end solutions. I love learning new technologies and using them to create efficient, modern, and innovative software that makes a real impact.
+A frontend-focused MERN developer with solid experience in JavaScript and React. I’m passionate about growing into a full-stack role, where I can design and build scalable, end-to-end solutions. I love learning new technologies and using them to create efficient, modern, and innovative software that makes a real impact.
 
 
 
