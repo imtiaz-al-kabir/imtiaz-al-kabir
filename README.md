@@ -1,6 +1,9 @@
 
 <div align="center">
 
+<p align="center">
+  <img src="https://i.ibb.co/60DqDzpX/White-and-Blue-Corporate-Software-Development-Services-Linkedin-Background-Photo-3.png" alt="Hero IO Screenshot" width="700"/>
+</p>
  
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=imtiaz-al-kabir.imtiaz-al-kabir">
  
